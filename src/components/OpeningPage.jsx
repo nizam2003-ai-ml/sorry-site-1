@@ -121,7 +121,7 @@ export default function OpeningPage({ setCurrentPage, setMusicPlaying, setShowMu
             repeatDelay: 2,
           }}
         />
-        <span className="relative z-10">Let me talk...</span>
+        <span className="relative z-10">Mujhe baat karne do..</span>
       </motion.button>
 
       {/* Bottom floating elements */}
