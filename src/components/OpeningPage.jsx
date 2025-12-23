@@ -84,7 +84,7 @@ export default function OpeningPage({ setCurrentPage, setMusicPlaying, setShowMu
           transition={{ duration: 0.8, delay: 1.3 }}
           className="text-pink-200 text-xl leading-relaxed"
         >
-          It's late night… I've been walking for hours…
+          Raat kaafi ho chuki hai… main ghanton se chalta raha hoon.
         </motion.p>
         <motion.p
           initial={{ opacity: 0, y: 20 }}
@@ -92,7 +92,7 @@ export default function OpeningPage({ setCurrentPage, setMusicPlaying, setShowMu
           transition={{ duration: 0.8, delay: 1.6 }}
           className="text-purple-200 text-xl leading-relaxed"
         >
-          I'm holding something heavy… not in hands, but in heart…
+          Haath mein nahi, dil mein kuch bhaari sa liye phir raha hoon.
         </motion.p>
       </motion.div>
 
